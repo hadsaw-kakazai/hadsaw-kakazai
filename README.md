@@ -1,11 +1,7 @@
-![MasterHead](https://contentstatic.techgig.com/thumb/msid-86001236,width-460,resizemode-4/Coding-for-students-Learn-with-these-7-apps.jpg?10556)
 <h1 align="center">Hi 👋, I'm Hadsaw Kakazai</h1>
 <h3 align="center">A passionate MERN developer and DevOps engineer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadsaw-kakazai&label=Profile%20views&color=0e75b6&style=flat" alt="hadsaw-kakazai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadsaw-kakazai" alt="hadsaw-kakazai" /></a> </p>
 
 - 🔭 I’m currently working on **NFT Marketplace**
 

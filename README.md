@@ -1,4 +1,4 @@
-![MasterHead]([https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://media.licdn.com/dms/image/D4D16AQHx9lb9rmooNw/profile-displaybackgroundimage-shrink_350_1400/0/1696528338192?e=1701907200&v=beta&t=MbowMt8KqRe89odzMJNhSrVXqqcegwH93Jn6MAk8QaI))
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHx9lb9rmooNw/profile-displaybackgroundimage-shrink_350_1400/0/1696528338192?e=1701907200&v=beta&t=MbowMt8KqRe89odzMJNhSrVXqqcegwH93Jn6MAk8QaI)
 
 <h1 align="center">Hi 👋, I'm Hadsaw Kakazai</h1>
 <h3 align="center">A passionate MERN developer and DevOps engineer from Pakistan</h3>

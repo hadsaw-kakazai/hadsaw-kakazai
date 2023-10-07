@@ -1,18 +1,15 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHx9lb9rmooNw/profile-displaybackgroundimage-shrink_350_1400/0/1696528338192?e=1701907200&v=beta&t=MbowMt8KqRe89odzMJNhSrVXqqcegwH93Jn6MAk8QaI)
 
 <h1 align="center">Hi 👋, I'm Hadsaw Kakazai</h1>
-<h3 align="center">A passionate MERN developer and DevOps engineer from Pakistan</h3>
+<h3 align="center">A passionate Python Developer, AI Enthusiast, and Work on React and Django</h3>
 <img src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" align="right" alt="Coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadsaw-kakazai&label=Profile%20views&color=0e75b6&style=flat" alt="hadsaw-kakazai" /></p>
 
-- 🔭 I’m currently working on **NFT Marketplace**
+- 🔭 I’m currently working on **ML Based Gait Pattern Analysis, A project of European Union**
 
-- 🌱 I’m currently learning **java spring boot, devOps**
+- 🌱 I’m currently learning **Django, Computer Vision, and MLOps**
 
-- 🤝 I’m looking for help with **DevOps Projects**
-
-- 💬 Ask me about **react, UX design,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

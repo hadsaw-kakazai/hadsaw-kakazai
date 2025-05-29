@@ -19,7 +19,7 @@
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/>
 
-    <a href="https://github.com/huggingface/smolagents" target="_blank" rel="noreferrer">
+  <a href="https://github.com/huggingface/smolagents" target="_blank" rel="noreferrer">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*P_oVyUlaekfDbRjyhS_zwg.png" alt="smolagents" width="40" height="40"/>
 </a>
 

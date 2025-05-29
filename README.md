@@ -17,7 +17,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flobehub.com%2Ficons%2Flangchain&psig=AOvVaw1RF6CXKP8HStlAeuE1wn57&ust=1748612315894000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCBpd7myI0DFQAAAAAdAAAAABAd" alt="langchain" width="40" height="40"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/>
 </a>
  </p>
 

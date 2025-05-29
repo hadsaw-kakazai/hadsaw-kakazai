@@ -19,29 +19,15 @@
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/>
 
-    <a href="" target="_blank" rel="noreferrer">
+    <a href="https://github.com/huggingface/smolagents" target="_blank" rel="noreferrer">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*P_oVyUlaekfDbRjyhS_zwg.png" alt="smolagents" width="40" height="40"/>
 </a>
 
 <!-- CrewAI -->
-<a href="https://github.com/joaomdmoura/crewAI" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/168807677?s=200&v=4" alt="crewai" width="40" height="40"/>
+<a href="https://www.crewai.com/" target="_blank" rel="noreferrer">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/crewai-color.png" alt="crewai" width="40" height="40"/>
 </a>
 
-<!-- Graph Database (Generic) -->
-<a href="https://en.wikipedia.org/wiki/Graph_database" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Graph_database_example.svg/1200px-Graph_database_example.svg.png" alt="graphdb" width="40" height="40"/>
-</a>
-
-<!-- BAML -->
-<a href="https://github.com/BerriAI/baml" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/150330174?s=200&v=4" alt="baml" width="40" height="40"/>
-</a>
-
-<!-- Pydantic -->
-<a href="https://docs.pydantic.dev/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/65188261?s=200&v=4" alt="pydantic" width="40" height="40"/>
-</a>
 
 <!-- HuggingFace -->
 <a href="https://huggingface.co" target="_blank" rel="noreferrer">

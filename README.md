@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHx9lb9rmooNw/profile-displaybackgroundimage-shrink_350_1400/0/1696528338192?e=1701907200&v=beta&t=MbowMt8KqRe89odzMJNhSrVXqqcegwH93Jn6MAk8QaI)
-
 <h1 align="center">Hi 👋, I'm Hadsaw Kakazai</h1>
 <h3 align="center">Passionate AI Enigneer</h3>
 <h3 align="left">Connect with me:</h3>

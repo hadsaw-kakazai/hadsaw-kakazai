@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hadsaw Kakazai</h1>
 <h3 align="center">Passionate AI Enigneer</h3>
 <h3 align="left">About Me</h3>
-<p>
+<p align="justify">
   I’m an AI Engineer with a strong focus on building intelligent, real-world systems that connect strategic goals with actionable outcomes. My core interests lie in AI agents, agentic RAG, reinforcement learning, and fine-tuning large language models for production-ready applications.
 I enjoy working at the intersection of applied AI, knowledge graphs, and dynamic team workflows—crafting tools that drive clarity, adaptability, and impact. I’m currently exploring advanced frameworks and libraries in the AI space, with a focus on developing scalable, intelligent products.
 Open to meaningful collaborations, learning opportunities, and building solutions that make a difference.
